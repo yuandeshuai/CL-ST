@@ -1,0 +1,1 @@
+noisyclean python=3.10 numpy=1.26 scipy matplotlib scikit-learn pandas opencv cleanlab[datalab]
